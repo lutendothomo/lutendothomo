@@ -27,7 +27,7 @@ Found, exploited and fixed 8 vulnerabilities: SQL injection (×2), stored XSS, C
 Wrote a pytest suite proving each fix stays fixed
 Documented the flaw, exploit, impact and fix for every issue, plus a manual dependency CVE check
 
-View repository →
+View repository → https://github.com/lutendothomo/flask-vuln-lab.git
 
 ☁️ Terraform Flask Deploy
 
@@ -41,7 +41,7 @@ README documents known limitations and the real errors I hit while debugging
 
 Status: deployment troubleshooting is still in progress. The repo documents the infrastructure and CI/CD work, not a finished production deployment.
 
-View repository →
+View repository → https://github.com/lutendothomo/terraform-flask-deploy.git
 
 
 Skills

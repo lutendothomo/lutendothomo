@@ -1,6 +1,6 @@
 <!-- Paste this at the very top of your profile README (lutendothomo/lutendothomo/README.md) -->
 <div align="center">
-  <img src="assets/binary-portrait.svg" alt="Binary-code portrait of Lutendo Thomo" width="460" />
+  <img src="binary-portrait.svg" alt="Binary-code portrait of Lutendo Thomo" width="460" />
 </div>
 
 # Hi, I'm Lutendo 👋

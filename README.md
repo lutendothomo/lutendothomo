@@ -1,6 +1,6 @@
 <div align="center">
 
-#  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="40" height="40" /> Hi, I'm Lutendo Faithful Thomo <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="40" height="40" />
+#  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="40" height="40" /> Hi, I'm Lutendo Faithful Thomo <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="40" height="40" />
 
 ### Software Development Student | Python | Java | SQL | AI & Automation | Cybersecurity | Cloud
 

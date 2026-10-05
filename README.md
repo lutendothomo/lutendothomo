@@ -1,7 +1,6 @@
-<!-- Paste this at the very top of your profile README (lutendothomo/lutendothomo/README.md) -->
-<div align="center">
-  <img src="binary-portrait.svg" alt="Binary-code portrait of Lutendo Thomo" width="460" />
-</div>
+<table>
+<tr>
+<td width="65%" valign="top">
 
 # Hi, I'm Lutendo 👋
 
@@ -14,6 +13,16 @@ Final-year WeThinkCode_ software development student interested in:
 - AI & Automation
 - Cybersecurity
 - Cloud & DevOps
+
+</td>
+
+<td width="35%" align="center" valign="top">
+
+<img src="binary-portrait.svg" alt="Binary-code portrait of Lutendo Thomo" width="300" />
+
+</td>
+</tr>
+</table>
 
 ## Technical Skills
 

@@ -2,284 +2,67 @@
 
 #  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="40" height="40" /> Hi, I'm Lutendo Faithful Thomo <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="40" height="40" />
 
-### Software Development Student | Python | Java | SQL | AI & Automation | Cybersecurity | Cloud
+Software Development Student · Secure Backend & DevSecOps
 
-Final-year WeThinkCode_ Software Development student building practical software, security and cloud projects.
+Final-year WeThinkCode_ student who builds software, breaks it on purpose, then secures and deploys it.
 
-</div>
+</div> <table> <tr> <td width="62%" valign="top">
+About me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+I take a problem, build a working solution, test it, then make it secure and reliable. My strongest work so far sits where Python backends, application security and cloud infrastructure meet.
 
-## About Me
+I'm looking for a junior role in software engineering, backend, cloud/DevOps or DevSecOps, somewhere I can work on real problems and keep learning.
 
-I'm a final-year WeThinkCode_ software development student with a practical focus on building and securing software.
+</td> <td width="38%" align="center" valign="top"> <img src="binary-portrait.svg" alt="Binary-code portrait of Lutendo Thomo" width="300" /> </td> </tr> </table>
+Featured projects
+🔐 Flask Vulnerability Lab
 
-My current interests include:
+CI
 
-* Python development
-* Java and backend development
-* AI and business automation
-* Cybersecurity and secure software development
-* Cloud engineering and DevOps
-* SQL and database-driven applications
-* CI/CD and Infrastructure as Code
+Python · Flask · SQLite · pytest · OWASP
 
-I enjoy taking a problem, building a working solution, testing it, and then improving its security and reliability.
+A booking app built with real security flaws, exploited, then patched one at a time. Each fix is backed by an automated regression test.
 
-</td>
+Found, exploited and fixed 8 vulnerabilities: SQL injection (×2), stored XSS, CSRF, plaintext passwords, hardcoded secret, no rate limiting, debug mode on
+Wrote a pytest suite proving each fix stays fixed
+Documented the flaw, exploit, impact and fix for every issue, plus a manual dependency CVE check
 
-<td width="35%" align="center" valign="top">
+View repository →
 
-<img src="binary-portrait.svg" alt="Binary-code portrait of Lutendo Thomo" width="300" />
+☁️ Terraform Flask Deploy
 
-</td>
-</tr>
-</table>
+Terraform · AWS (EC2, S3, CloudWatch) · GitHub Actions · Flask
 
----
+Infrastructure as Code that deploys a Flask app to AWS, with a CI/CD pipeline that validates, plans and applies changes and keeps Terraform state remotely in S3.
 
-## Technical Skills
+Three-stage GitHub Actions pipeline: validate → plan (on PRs) → apply (on main)
+EC2 instance bootstrapped with a user-data script, security group with restricted SSH, CloudWatch status-check alarm
+README documents known limitations and the real errors I hit while debugging
 
-### Programming
+Status: deployment troubleshooting is still in progress. The repo documents the infrastructure and CI/CD work, not a finished production deployment.
 
-Python • Java • SQL • JavaScript
+View repository →
 
-### Backend & Web
 
-Flask • Spring Boot • REST APIs • React • HTML • CSS
+Skills
 
-### Databases
+Used in my projects: Python · Flask · SQLite · pytest · Terraform · AWS (EC2, S3, CloudWatch, IAM) · GitHub Actions · Git · OWASP Top 10 · secure coding
 
-SQLite • PostgreSQL
+Coursework & learning: Java (OOP, JUnit) · SQL · REST APIs · Docker · CI/CD · DevSecOps · AI-assisted development and automation
 
-### Testing
+Education
 
-pytest • JUnit • TDD • Automated Testing
+WeThinkCode_: Software Development Programme (final year). Python, Java, OOP, SQL, REST APIs, testing/TDD, software architecture, cybersecurity and cloud electives, Agile/Scrum.
 
-### DevOps & Cloud
+Rhodes University: BSc, Economics, Entomology & Zoology (2019–2022)
 
-Git • GitHub Actions • Docker • Terraform • AWS • CI/CD • Infrastructure as Code
+Certificates & training: Cisco Networking Academy: Introduction to Cybersecurity · TryHackMe: Pre Security path
 
-### Cybersecurity
-
-OWASP Top 10 • Secure Coding • DevSecOps • STRIDE • Vulnerability Remediation • Application Security
-
-### AI & Automation
-
-AI-assisted development • AI tools • Workflow Automation • AI Agents • Business Process Automation
-
----
-
-## Featured Projects
-
-### Flask Vulnerability Lab
-
-**Python • Flask • SQLite • pytest • OWASP • Git**
-
-A deliberately vulnerable Flask application built to practise application security and secure coding.
-
-**What I worked on:**
-
-* Identified and remediated 8 OWASP-related vulnerabilities
-* SQL injection prevention using parameterized queries
-* Stored XSS remediation
-* CSRF protection
-* Password hashing
-* Hardcoded secret removal
-* Rate limiting
-* Debug-mode security
-* Automated security regression tests
-* Vulnerability and remediation documentation
-
-[View Repository →](https://github.com/lutendothomo/flask-vuln-lab?utm_source=chatgpt.com)
-
----
-
-### Terraform Flask Deploy
-
-**Terraform • AWS • GitHub Actions • EC2 • S3 • Flask • CI/CD**
-
-Infrastructure as Code and DevSecOps project focused on deploying and managing a Flask application using AWS and Terraform.
-
-**What I worked on:**
-
-* Terraform Infrastructure as Code
-* AWS EC2 infrastructure
-* Security group configuration
-* SSH access controls
-* Terraform remote state using S3
-* GitHub Actions CI/CD workflows
-* Terraform validation and planning
-* Cloud security practices
-* Infrastructure troubleshooting and debugging
-
-> **Current status:** Deployment troubleshooting is still in progress. The project documents the infrastructure and CI/CD work rather than claiming a completed production deployment.
-
-[View Repository →](https://github.com/lutendothomo/terraform-flask-deploy?utm_source=chatgpt.com)
-
----
-
-## Education
-
-### WeThinkCode_
-
-**Software Development Programme — Final Year**
-
-Relevant areas:
-
-* Python
-* Java
-* Object-Oriented Programming
-* SQL and Databases
-* REST APIs
-* Testing and TDD
-* Web Development
-* Software Architecture
-* Git and Version Control
-* Cybersecurity
-* DevOps and Cloud
-* Agile/Scrum
-
-### Rhodes University
-
-**BSc — Economics, Entomology & Zoology**
-
-2019–2022
-
----
-
-## Cybersecurity
-
-I'm particularly interested in applying security principles during development rather than treating security as an afterthought.
-
-### Training
-
-* Cisco Networking Academy — Introduction to Cybersecurity
-* TryHackMe — Pre Security Learning Path
-* WeThinkCode_ Cybersecurity Elective
-
-### Topics
-
-* OWASP Top 10
-* STRIDE
-* Secure Coding
-* DevSecOps
-* Shift-Left Security
-* SSDLC
-* CI/CD Security
-* NIST SSDF
-* OWASP SAMM
-* ISO/IEC 27034
-
-My Flask Vulnerability Lab is one of my practical security projects.
-
----
-
-## Cloud & DevOps
-
-Currently developing practical experience with:
-
-* AWS
-* Terraform
-* Docker
-* GitHub Actions
-* CI/CD
-* Infrastructure as Code
-* Cloud security
-* Automated testing
-* Deployment troubleshooting
-
----
-
-## AI & Automation
-
-I'm currently expanding my development skills into AI and business automation.
-
-Areas I'm exploring:
-
-* AI-powered applications
-* AI agents
-* Workflow automation
-* Business process automation
-* API integrations
-* AI-assisted development
-* Automated reporting
-* Intelligent business tools
-
-My goal is to combine traditional software engineering with AI to solve practical business problems.
-
----
-
-## Currently Learning
-
-* AI automation
-* AI agents
-* Cloud engineering
-* Secure software development
-* DevOps and CI/CD
-* Advanced Python
-* Database development
-* Business process automation
-
----
-
-## Career Interests
-
-I'm interested in opportunities involving:
-
-* Software Engineering
-* Python Development
-* AI Development
-* AI Automation
-* Backend Development
-* Cloud Engineering
-* DevOps
-* Cybersecurity
-* DevSecOps
-* Business Process Automation
-
-I'm especially interested in opportunities where I can work on real-world technical problems and continue learning through practical development.
-
----
-
-## What I'm Building
-
-My GitHub portfolio focuses on projects that demonstrate more than just basic programming.
-
-**Current portfolio direction:**
-
-```text
-Software Engineering
-        |
-        ├── Python / Java
-        |
-        ├── APIs & Databases
-        |
-        ├── Testing
-        |
-        ├── Cybersecurity
-        |
-        ├── Cloud & DevOps
-        |
-        └── AI & Automation
-```
-
-The goal is to build projects that combine these areas rather than keeping them isolated.
-
----
-
-## Connect
-
-* LinkedIn: [Lutendo Faithful Thomo](https://www.linkedin.com/in/lutendo-faithful-thomo?utm_source=chatgpt.com)
-* GitHub: [@lutendothomo](https://github.com/lutendothomo?utm_source=chatgpt.com)
-* Email: [lutendothomo@gmail.com](mailto:lutendothomo@gmail.com)
-
----
-
+Connect
+LinkedIn: Lutendo Faithful Thomo
+Email: lutendothomo@gmail.com
 <div align="center">
 
-**Building • Learning • Securing • Automating**
+Building · Learning · Securing · Automating
 
 </div>

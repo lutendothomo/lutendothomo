@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lutendo
+# Hi, I'm Lutendo Faithful Thomo
 
 ### Software Development Student | Python | Java | SQL | AI & Automation | Cybersecurity | Cloud
 
